@@ -4,9 +4,8 @@
 This project is a simple meme-style poster created using HTML and CSS.  
 
 ## Output 
-http://127.0.0.1:3000/6.4 Motivation Meme Project/index.html
-
-## 🛠 Technologies Used  
+http://127.0.0.1:3000/6.4%20Motivation%20Meme%20Project/index.html
+##  Technologies Used  
 - HTML  
 - CSS  
 
